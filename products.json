@@ -1,0 +1,51 @@
+[
+  {
+    "id":1,
+    "name":"Double Beef Burger",
+    "price":"$200",
+    "image":"imges/burger.png"
+  },
+  {
+    "id":2,
+    "name":"French Fries",
+    "price":"$1.0",
+    "image":"imges/French Fries.png"
+  },
+  {
+    "id":3,
+    "name":"Hot Dog",
+    "price":"$3.90",
+    "image":"imges/Hot Dog.png"
+  },
+  {
+    "id":4,
+    "name":"momos",
+    "price":"$20.0",
+    "image":"imges/momos.png"
+  },
+  {
+    "id":5,
+    "name":"Pizza veg",
+    "price":"$1.00",
+    "image":"imges/pizza.png"
+  },
+  {
+    "id":6,
+    "name":"Spring Roll",
+    "price":"$8.0",
+    "image":"imges/spring roll.png"
+  },
+  {
+    "id":7,
+    "name":"veggie Wrap",
+    "price":"$5.00",
+    "image":"imges/Veggie Wrap.png"
+  },
+  {
+    "id":8,
+    "name":"Samosas",
+    "price":"$4.0",
+    "image":"imges/samosa.png"
+  }
+
+]
