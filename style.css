@@ -445,6 +445,10 @@ input[type="email"]:focus {
   .desktop-action .btn {
     display: none;
   }
+    html, body {
+    max-width: 100vw;
+    overflow-x: hidden;
+  }
   .desktop-action .hamburger {
     display: block;
   }
